@@ -1,0 +1,650 @@
+{
+   "run1":{
+      "annot1":"the man is a runner",
+      "annot2":"the man is running",
+      "img_dataset":"Geograph_dataset",
+      "img_file":"run1_g.6446422.jpg"
+   },
+   "run2":{
+      "annot1":"the men are runners",
+      "annot2":"the men are running",
+      "img_dataset":"Geograph_dataset",
+      "img_file":"run2_g.4029465.jpg"
+   },
+   "run3":{
+      "annot1":"the man is a runner",
+      "annot2":"the man is running",
+      "img_dataset":"VisualGenome",
+      "img_file":"run3_2403688.jpg"
+   },
+   "run4":{
+      "annot1":"the young man is a runner",
+      "annot2":"the young man is running",
+      "img_dataset":"VisualGenome",
+      "img_file":"run4_2382318.jpg"
+   },
+   "run5":{
+      "annot1":"the man is a runner",
+      "annot2":"the man is running",
+      "img_dataset":"VisualGenome",
+      "img_file":"run5_1261.jpg"
+   },
+   "run6":{
+      "annot1":"the man in the black shirt is a runner",
+      "annot2":"the man in the black shirt is running",
+      "img_dataset":"VisualGenome",
+      "img_file":"run6_2386888.jpg"
+   },
+   "swim1":{
+      "annot1":"the people are swimmers",
+      "annot2":"the people are swimming",
+      "img_dataset":"Geograph_dataset",
+      "img_file":"swim1_g.6515320.jpg"
+   },
+   "swim2":{
+      "annot1":"the people are swimmer",
+      "annot2":"the people are swimming",
+      "img_dataset":"Geograph_dataset",
+      "img_file":"swim2_g.3125002.jpg"
+   },
+   "swim3":{
+      "annot1":"the people are swimmers",
+      "annot2":"the people are swimming",
+      "img_dataset":"VisualGenome",
+      "img_file":"swim3_2409365.jpg"
+   },
+   "swim4":{
+      "annot1":"the dog is a swimmer",
+      "annot2":"the dog is swimming",
+      "img_dataset":"VisualGenome",
+      "img_file":"swim4_2333478.jpg"
+   },
+   "swim5":{
+      "annot1":"the woman is a swimmer",
+      "annot2":"the woman is swimming",
+      "img_dataset":"VisualGenome",
+      "img_file":"swim5_1251.jpg"
+   },
+   "swim6":{
+      "annot1":"the man is a swimmer",
+      "annot2":"the man is swimming",
+      "img_dataset":"VisualGenome",
+      "img_file":"swim6_2360491.jpg"
+   },
+   "bake1":{
+      "annot1":"the woman is a baker",
+      "annot2":"the woman is baking",
+      "img_dataset":"VisualGenome",
+      "img_file":"baker1_2351585.jpg"
+   },
+   "bake2":{
+      "annot1":"the person is a baker",
+      "annot2":"the person is baking",
+      "img_dataset":"VisualGenome",
+      "img_file":"baker2_2362092.jpg"
+   },
+   "bake3":{
+      "annot1":"the person is a baker",
+      "annot2":"the person is baking",
+      "img_dataset":"VisualGenome",
+      "img_file":"baker3_2403911.jpg"
+   },
+   "bake4":{
+      "annot1":"the man is a baker",
+      "annot2":"the man is baking",
+      "img_dataset":"VisualGenome",
+      "img_file":"baker4_2365178.jpg"
+   },
+   "bake5":{
+      "annot1":"the man is a baker",
+      "annot2":"the man is baking",
+      "img_dataset":"VisualGenome",
+      "img_file":"baker5_2391913.jpg"
+   },
+   "bake6":{
+      "annot1":"the woman is a baker",
+      "annot2":"the woman is baking",
+      "img_dataset":"VisualGenome",
+      "img_file":"baker6_2360062.jpg"
+   },
+   "surf1":{
+      "annot1":"the man is a surfer",
+      "annot2":"the man is surfing",
+      "img_dataset":"MC_COCO",
+      "img_file":"surf1_000000465878.jpg"
+   },
+   "surf2":{
+      "annot1":"the woman is a surfer",
+      "annot2":"the woman is surfing",
+      "img_dataset":"Geograph_dataset",
+      "img_file":"surf2_2379669.jpg"
+   },
+   "surf3":{
+      "annot1":"the man and the young girl are surfers",
+      "annot2":"the man and the young girl are surfing",
+      "img_dataset":"VisualGenome",
+      "img_file":"surf3_2319820.jpg"
+   },
+   "surf4":{
+      "annot1":"the woman and the man are surfers",
+      "annot2":"the woman and the man are surfing",
+      "img_dataset":"VisualGenome",
+      "img_file":"surf4_2346544.jpg"
+   },
+   "sruf5":{
+      "annot1":"the man is a surfer",
+      "annot2":"the man is surfing",
+      "img_dataset":"VisualGenome",
+      "img_file":"surf5_2396251.jpg"
+   },
+   "surf6":{
+      "annot1":"the four kids are surfers",
+      "annot2":"the four kids are surfing",
+      "img_dataset":"VisualGenome",
+      "img_file":"surf6_2371462.jpg"
+   },
+   "hunt1":{
+      "annot1":"the man and the dog are hunters",
+      "annot2":"the man and the dog are hunting",
+      "img_dataset":"VisualGenome",
+      "img_file":"hunt1_2316137.jpg"
+   },
+   "hunt2":{
+      "annot1":"the man is a hunter",
+      "annot2":"the man is hunting",
+      "img_dataset":"Wikimedia_commons",
+      "img_file":"hunt2_https://upload.wikimedia.org/wikipedia/commons/6/6e/Quail_Hunting_with_Dogs.jpg"
+   },
+   "hunt3":{
+      "annot1":"the cat is a hunter",
+      "annot2":"the cat is hunting",
+      "img_dataset":"VisualGenome",
+      "img_file":"hunt3_2316613.jpg"
+   },
+   "hunt4":{
+      "annot1":"the man is a hunter",
+      "annot2":"the man is hunting",
+      "img_dataset":"Wikimedia_commons",
+      "img_file":"hunt4_https://commons.wikimedia.org/wiki/File:Hunter_with_rifle_and_hunting_dog_(AM_87817-1).jpg"
+   },
+   "hunt5":{
+      "annot1":"the four men are hunters",
+      "annot2":"the four men are hunting",
+      "img_dataset":"VisualGenome",
+      "img_file":"hunt5_2337201.jpg"
+   },
+   "hunt6":{
+      "annot1":"the man is a hunter",
+      "annot2":"the man is hunting",
+      "img_dataset":"Wikimedia_commons",
+      "img_file":"hunt4_https://upload.wikimedia.org/wikipedia/commons/3/34/Paul_Childerley_driven_hunt_Finland_06.png"
+   },
+   "love1":{
+      "annot1":"the woman and the man are lovers",
+      "annot2":"the woman and the man love each other",
+      "img_dataset":"VisualGenome",
+      "img_file":"love1_2357211.jpg"
+   },
+   "love2":{
+      "annot1":"the man and the woman are lovers",
+      "annot2":"the man and the woman love each other",
+      "img_dataset":"VisualGenome",
+      "img_file":"love2_2393418.jpg"
+   },
+   "love3":{
+      "annot1":"the woman and the girl are lovers",
+      "annot2":"the woman and the girl love each other",
+      "img_dataset":"VisualGenome",
+      "img_file":"love3_2361720.jpg"
+   },
+   "love4":{
+      "annot1":"the girl and the boy are lovers",
+      "annot2":"the girl and the boy love each other",
+      "img_dataset":"VisualGenome",
+      "img_file":"love4_2368265.jpg"
+   },
+   "love5":{
+      "annot1":"the man and the woman are lovers",
+      "annot2":"the man and the woman love each other",
+      "img_dataset":"VisualGenome",
+      "img_file":"love5_2373402.jpg"
+   },
+   "love6":{
+      "annot1":"the people are lovers",
+      "annot2":"the people love each other",
+      "img_dataset":"VisualGenome",
+      "img_file":"love6_2373244.jpg"
+   },
+   "support1":{
+      "annot1":"the hugging man is a supporter",
+      "annot2":"the hugging man is supporting",
+      "img_dataset":"VisualGenome",
+      "img_file":"support1_2349575.jpg"
+   },
+   "support2":{
+      "annot1":"the man and the woman are supporters",
+      "annot2":"the man and the woman are supporting",
+      "img_dataset":"VisualGenome",
+      "img_file":"support2_2407009.jpg"
+   },
+   "support3":{
+      "annot1":"the man is a supporter",
+      "annot2":"the man is supporting",
+      "img_dataset":"VisualGenome",
+      "img_file":"support3_2324470.jpg"
+   },
+   "support4":{
+      "annot1":"the man is a supporter",
+      "annot2":"the man is supporting",
+      "img_dataset":"VisualGenome",
+      "img_file":"support4_2346519.jpg"
+   },
+   "support5":{
+      "annot1":"the woman is a supporter",
+      "annot2":"the woman is supporting",
+      "img_dataset":"VisualGenome",
+      "img_file":"support5_2319026.jpg"
+   },
+   "support6":{
+      "annot1":"the people are supporters",
+      "annot2":"the people are supporting",
+      "img_dataset":"VisualGenome",
+      "img_file":"support6_2345151.jpg"
+   },
+   "drive1":{
+      "annot1":"the person is a driver",
+      "annot2":"the person is driving",
+      "img_dataset":"Wikimedia_commons",
+      "img_file":"drive1_https://upload.wikimedia.org/wikipedia/commons/9/9d/Schumacher_%28Ferrari%29_in_practice_at_USGP_2005.jpg"
+   },
+   "drive2":{
+      "annot1":"the woman is a driver",
+      "annot2":"the woman is driving",
+      "img_dataset":"Wikimedia_commons",
+      "img_file":"drive2_https://upload.wikimedia.org/wikipedia/commons/c/c0/Car_Racing_Driver.jpg"
+   },
+   "drive3":{
+      "annot1":"the woman is a driver",
+      "annot2":"the woman is driving",
+      "img_dataset":"Wikimedia_commons",
+      "img_file":"drive2_https://upload.wikimedia.org/wikipedia/commons/8/8f/Red_Bull_Jungfrau_Stafette%2C_10th_stage_-_vintage_cars_%283%29.jpg"
+   },
+   "drive4":{
+      "annot1":"the woman with pink gloves is a driver",
+      "annot2":"the woman with pink gloves is driving",
+      "img_dataset":"VisualGenome",
+      "img_file":"drive4_2379270.jpg"
+   },
+   "drive5":{
+      "annot1":"the man is a driver",
+      "annot2":"the man is driving",
+      "img_dataset":"Wikimedia_commons",
+      "img_file":"drive5_Wikimedia.jpg"
+   },
+   "drive6":{
+      "annot1":"the man is a driver",
+      "annot2":"the man  is driving",
+      "img_dataset":"VisualGenome",
+      "img_file":"drive6_3608.jpg"
+   },
+   "smoke1":{
+      "annot1":"the man is a smoker",
+      "annot2":"the man is smoking",
+      "img_dataset":"VisualGenome",
+      "img_file":"smoke1_2414691.jpg"
+   },
+   "smoke2":{
+      "annot1":"the man with the hat is a smoker",
+      "annot2":"the man with the hat is smoking",
+      "img_dataset":"Wikimedia_commons",
+      "img_file":"smoke2_https://commons.wikimedia.org/wiki/File:MPOTY_2015_The_Heroin_Highway_panhandling.jpg"
+   },
+   "smoke3":{
+      "annot1":"the woman is a smoker",
+      "annot2":"the woman is smoking",
+      "img_dataset":"VisualGenome",
+      "img_file":"smoke3_2411117.jpg"
+   },
+   "smoke4":{
+      "annot1":"the women are smokers",
+      "annot2":"the women are smoking",
+      "img_dataset":"Wikimedia_commons",
+      "img_file":"smoke4_https://commons.wikimedia.org/wiki/File:Benini.jpg"
+   },
+   "smoke5":{
+      "annot1":"the man is a smoker",
+      "annot2":"the man is smoking",
+      "img_dataset":"VisualGenome",
+      "img_file":"smoke5_2358939.jpg"
+   },
+   "smoke6":{
+      "annot1":"the man is a smoker",
+      "annot2":"the man is smoking",
+      "img_dataset":"Wikimedia_commons",
+      "img_file":"smoke6_https://commons.wikimedia.org/wiki/File:%E8%87%AA%E8%B2%A9%E6%A9%9F_%E8%B3%BC%E5%85%A5_2010_(4826585216).jpg"
+   },
+   "walk1":{
+      "annot1":"the people are walkers",
+      "annot2":"the people are walking",
+      "img_dataset":"Geograph_dataset",
+      "img_file":"walk1_g.4301822.jpg"
+   },
+   "walk2":{
+      "annot1":"the people are walkers",
+      "annot2":"the people are walking",
+      "img_dataset":"Geograph_dataset",
+      "img_file":"walk2_g.6852045.jpg"
+   },
+   "walk3":{
+      "annot1":"the people are walkers",
+      "annot2":"the people are walking",
+      "img_dataset":"Geograph_dataset",
+      "img_file":"walk3_g.6768117.jpg"
+   },
+   "walk4":{
+      "annot1":"the people are walkers",
+      "annot2":"the people are walking",
+      "img_dataset":"Geograph_dataset",
+      "img_file":"walk4_g.6729783.jpg"
+   },
+   "walk5":{
+      "annot1":"the girl is a walker",
+      "annot2":"the girl is walking",
+      "img_dataset":"Geograph_dataset",
+      "img_file":"walk5_g.5494503.jpg"
+   },
+   "walk5":{
+      "annot1":"the people are walkers",
+      "annot2":"the people are walking",
+      "img_dataset":"Geograph_dataset",
+      "img_file":"walk6_g.5392781.jpg"
+   },
+   "skii1":{
+      "annot1":"the man is a skier",
+      "annot2":"the man is skiing",
+      "img_dataset":"VisualGenome",
+      "img_file":"skii1_2354995.jpg"
+   },
+   "skii2":{
+      "annot1":"the woman is a skier",
+      "annot2":"the woman is skiing",
+      "img_dataset":"VisualGenome",
+      "img_file":"skii2_2373807.jpg"
+   },
+   "skii3":{
+      "annot1":"the man is a skier",
+      "annot2":"the man is skiing",
+      "img_dataset":"VisualGenome",
+      "img_file":"skii2_2406324.jpg"
+   },
+   "skii4":{
+      "annot1":"the person is a skier",
+      "annot2":"the person is skiing",
+      "img_dataset":"VisualGenome",
+      "img_file":"skii4_2328749.jpg"
+   },
+   "skii5":{
+      "annot1":"the man is a skier",
+      "annot2":"the man is skiing",
+      "img_dataset":"MC_COCO",
+      "img_file":"skii5_000000186254.jpg"
+   },
+   "skii6":{
+      "annot1":"the people are skiers",
+      "annot2":"the people are skiing",
+      "img_dataset":"Geograph_dataset",
+      "img_file":"skii6_g.2276706.jpg"
+   },
+   "dance1":{
+      "annot1":"the people are dancers",
+      "annot2":"the people are dancing",
+      "img_dataset":"VisualGenome",
+      "img_file":"dance1_2413339.jpg"
+   },
+   "dance2":{
+      "annot1":"the man and the girl are dancers",
+      "annot2":"the man and the girl are dancing",
+      "img_dataset":"VisualGenome",
+      "img_file":"dance2_2348207.jpg"
+   },
+   "dance3":{
+      "annot1":"the four women are dancers",
+      "annot2":"the four women are dancing",
+      "img_dataset":"VisualGenome",
+      "img_file":"dance3_2405931.jpg"
+   },
+   "dance4":{
+      "annot1":"the people are dancers",
+      "annot2":"the people are dancing",
+      "img_dataset":"VisualGenome",
+      "img_file":"dance4_2322738.jpg"
+   },
+   "dance5":{
+      "annot1":"the children are dancers",
+      "annot2":"the children are dancing",
+      "img_dataset":"VisualGenome",
+      "img_file":"dance5_2364650.jpg"
+   },
+   "dance6":{
+      "annot1":"the people are dancers",
+      "annot2":"the people are dancing",
+      "img_dataset":"Geograph_dataset",
+      "img_file":"dance6_g.3295466.jpg"
+   },
+   "sing1":{
+      "annot1":"the woman is a singer",
+      "annot2":"the woman is singing",
+      "img_dataset":"VisualGenome",
+      "img_file":"sing1_2324536.jpg"
+   },
+   "sing2":{
+      "annot1":"the woman is a singer",
+      "annot2":"the woman is singing",
+      "img_dataset":"Geograph_dataset",
+      "img_file":"sing2_g.7140513.jpg"
+   },
+   "sing3":{
+      "annot1":"the man is a singer",
+      "annot2":"the man is singing",
+      "img_dataset":"VisualGenome",
+      "img_file":"sing3_2415610.jpg"
+   },
+   "sing4":{
+      "annot1":"the woman is a singer",
+      "annot2":"the woman is singing",
+      "img_dataset":"VisualGenome",
+      "img_file":"sing4_2348041.jpg"
+   },
+   "sing5":{
+      "annot1":"the man is a singer",
+      "annot2":"the man is singing",
+      "img_dataset":"VisualGenome",
+      "img_file":"sing5_2341426.jpg"
+   },
+   "sing6":{
+      "annot1":"the woman and the man are singers",
+      "annot2":"the woman and the man are singing",
+      "img_dataset":"VisualGenome",
+      "img_file":"sing6_2390352.jpg"
+   },
+   "clean1":{
+      "annot1":"the two men are cleaners",
+      "annot2":"the two men are cleaning",
+      "img_dataset":"VisualGenome",
+      "img_file":"clean1_2318276.jpg"
+   },
+   "clean2":{
+      "annot1":"the man is a cleaner",
+      "annot2":"the man is cleaning",
+      "img_dataset":"Wikimedia_commons",
+      "img_file":"clean2_https-//upload.wikimedia.org/wikipedia/commons/5/5e/Cleaning_the_Environment.jpg"
+   },
+   "clean3":{
+      "annot1":"the woman is a cleaner",
+      "annot2":"the woman is cleaning",
+      "img_dataset":"VisualGenome",
+      "img_file":"clean3_2413372.jpg"
+   },
+   "clean4":{
+      "annot1":"the man is a cleaner",
+      "annot2":"the man is cleaning",
+      "img_dataset":"Geograph_dataset",
+      "img_file":"clean4_g.6779564.jpg"
+   },
+   "clean5":{
+      "annot1":"the man is a cleaner",
+      "annot2":"the man is cleaning",
+      "img_dataset":"Wikimedia_commons",
+      "img_file":"clean5_https-//commons.wikimedia.org/wiki/File-Esther_cleaning_the_toilet._(6829156150).jpg"
+   },
+   "clean6":{
+      "annot1":"the woman is a cleaner",
+      "annot2":"the woman is cleaning",
+      "img_dataset":"VisualGenome",
+      "img_file":"clean6_2366810.jpg"
+   },
+   "game1":{
+      "annot1":"the people are gamers",
+      "annot2":"the people are gaming",
+      "img_dataset":"MC_COCO",
+      "img_file":"game1_000000017967.jpg"
+   },
+   "game2":{
+      "annot1":"the child is a gamer",
+      "annot2":"the child is gaming",
+      "img_dataset":"Wikimedia_commons",
+      "img_file":"game2_https://commons.wikimedia.org/wiki/File:KidPlayingVideoGames.jpg"
+   },
+   "game3":{
+      "annot1":"the woman is a gamer",
+      "annot2":"the woman is gaming",
+      "img_dataset":"Wikimedia_commons",
+      "img_file":"game2_https-//upload.wikimedia.org/wikipedia/commons/1/11/A_woman_gamer_participating_with_men_at_gamescom.jpg "
+   },
+   "game4":{
+      "annot1":"the woman is a gamer",
+      "annot2":"the woman is gaming",
+      "img_dataset":"VisualGenome",
+      "img_file":"game4_2383083.jpg"
+   },
+   "game5":{
+      "annot1":"the man at the computer is a gamer",
+      "annot2":"the man at the computer is gaming",
+      "img_dataset":"VisualGenome",
+      "img_file":"game5_2349567.jpg"
+   },
+   "game6":{
+      "annot1":"the two men are gamers",
+      "annot2":"the two men are gaming",
+      "img_dataset":"VisualGenome",
+      "img_file":"game6_2396868.jpg"
+   },
+   "teach1":{
+      "annot1":"the man is a teacher",
+      "annot2":"the wman is teaching",
+      "img_dataset":"VisualGenome",
+      "img_file":"teach1_2323360.jpg"
+   },
+   "teach2":{
+      "annot1":"the woman is a teacher",
+      "annot2":"the woman is teaching",
+      "img_dataset":"VisualGenome",
+      "img_file":"teach2_2361701.jpg"
+   },
+   "teach3":{
+      "annot1":"the adults are teachers",
+      "annot2":"the adults are teaching",
+      "img_dataset":"VisualGenome",
+      "img_file":"teach3_2400586.jpg"
+   },
+   "teach4":{
+      "annot1":"the two men are teachers",
+      "annot2":"the two men are teaching",
+      "img_dataset":"VisualGenome",
+      "img_file":"teach4_2394237.jpg"
+   },
+   "teach5":{
+      "annot1":"the woman is a teacher",
+      "annot2":"the woman is teaching",
+      "img_dataset":"VisualGenome",
+      "img_file":"teach5_2391875.jpg"
+   },
+   "teach6":{
+      "annot1":"the woman is a teacher",
+      "annot2":"the woman is teaching",
+      "img_dataset":"VisualGenome",
+      "img_file":"teach6_2408090.jpg"
+   },
+   "paint1":{
+      "annot1":"the man is a painter",
+      "annot2":"the man is painting",
+      "img_dataset":"Geograph_dataset",
+      "img_file":"paint1_g.5813326.jpg"
+   },
+   "paint2":{
+      "annot1":"the people are painters",
+      "annot2":"the people are painting",
+      "img_dataset":"Geograph_dataset",
+      "img_file":"paint4_g.4061871.jpg"
+   },
+   "paint3":{
+      "annot1":"the man is a painter",
+      "annot2":"the man is painting",
+      "img_dataset":"Wikimedia_commons",
+      "img_file":"paint3_https://commons.wikimedia.org/wiki/File:Graffiti_Artist_(49669532816).jpg"
+   },
+   "paint4":{
+      "annot1":"the person is a painter",
+      "annot2":"the person is painting",
+      "img_dataset":"Geograph_dataset",
+      "img_file":"paint4_g.6141535.jpg"
+   },
+   "paint5":{
+      "annot1":"the man is a painter",
+      "annot2":"the man is painting",
+      "img_dataset":"VisualGenome",
+      "img_file":"paint5_1021.jpg"
+   },
+   "paint6":{
+      "annot1":"the man is a painter",
+      "annot2":"the man is painting",
+      "img_dataset":"Wikimedia_commons",
+      "img_file":"paint6_https://upload.wikimedia.org/wikipedia/commons/2/21/Graffiti_of_Peace_in_Bethlehem_on_Apartheid_Wall_by_Street_Artist_Kis-Lev4.jpg"
+   },
+   "read1":{
+      "annot1":"the man in the blue jacket is a reader",
+      "annot2":"the man in the blue jacket is reading",
+      "img_dataset":"Wikimedia_commons",
+      "img_file":"read1_https://upload.wikimedia.org/wikipedia/commons/5/54/Second_hand_books%2C_Paris%2C_26_Sept._2009.jpg"
+   },
+   "read2":{
+      "annot1":"the man and the woman are readers",
+      "annot2":"the man and the woman are reading",
+      "img_dataset":"VisualGenome",
+      "img_file":"read2_2397070"
+   },
+   "read3":{
+      "annot1":"the man is a reader",
+      "annot2":"the man is reading",
+      "img_dataset":"Wikimedia_commons",
+      "img_file":"read3_https://upload.wikimedia.org/wikipedia/commons/f/f6/Jaromir_Vytopil.jpg"
+   },
+   "read4":{
+      "annot1":"the woman is a reader",
+      "annot2":"the woman is reading",
+      "img_dataset":"Wikimedia_commons",
+      "img_file":"read4_wikimedia"
+   },
+   "read5":{
+      "annot1":"the man and the child are readers",
+      "annot2":"the man and the child are reading",
+      "img_dataset":"VisualGenome",
+      "img_file":"read5_2337870"
+   },
+   "read6":{
+      "annot1":"the woman is a reader",
+      "annot2":"the woman is reading",
+      "img_dataset":"VisualGenome",
+      "img_file":"read6_2362825"
+   }
+}
