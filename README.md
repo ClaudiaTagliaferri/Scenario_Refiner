@@ -1,4 +1,4 @@
-# Scenario Refin_er_: Grounding subjects in images at the morphological level.
+# Scenario Refiner: Grounding subjects in images at the morphological level.
 
 The code is under Creative Common License: https://creativecommons.org/licenses/by/4.0/
 
