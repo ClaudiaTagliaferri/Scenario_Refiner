@@ -27,3 +27,5 @@ Please find the code for computing image-text pairs with different Vision and La
 
 # Reference
 Please cite our paper if you are using this dataset:
+
+https://arxiv.org/abs/2309.11252
