@@ -1,0 +1,437 @@
+# -*- coding: utf-8 -*-
+"""Scenario_Refiner_human_judgement
+
+{
+   "run1":{
+      "human_run1_verb" : "6.70",
+      "human_run1_noun" : "6.10"
+   },
+   "run2":{
+      "human_run2_verb" : "6.80",
+      "human_run2_noun" : "6.50"
+   },
+   "run3":{
+      "human_run3_verb" : "6.70",
+      "human_run3_noun" : "4.70"
+   },
+   "run4":{
+      "human_run4_verb" : "6.70",
+      "human_run4_noun" : "3.40"
+   },
+   "run5":{
+      "human_run5_verb" : "7.00",
+      "human_run5_noun" : "6.50"
+   },
+   "run6":{
+      "human_run6_verb" : "6.50",
+      "human_run6_noun" : "4.80"
+   },
+   "swim1":{
+      "human_swim1_verb" : "6.90",
+      "human_swim1_noun" : "6.70"
+   },
+   "swim2":{
+      "human_swim2_verb" : "6.90",
+      "human_swim2_noun" : "6.80"
+   },
+   "swim3":{
+      "human_swim3_verb" : "5.80",
+      "human_swim3_noun" : "3.80"
+   },
+   "swim4":{
+      "human_swim4_verb" : "6.80",
+      "human_swim4_noun" : "5.40"
+   },
+   "swim5":{
+      "human_swim5_verb" : "6.90",
+      "human_swim5_noun" : "6.30"
+   },
+   "swim6":{
+      "human_swim6_verb" : "6.90",
+      "human_swim6_noun" : "6.00"
+   },
+   "bake1":{
+      "human_bake1_verb" : "6.40",
+      "human_bake1_noun" : "4.70"
+   },
+   "bake2":{
+      "human_bake2_verb" : "5.00",
+      "human_bake2_noun" : "3.40"
+   },
+   "bake3":{
+      "human_bake3_verb" : "6.50",
+      "human_bake3_noun" : "2.90"
+   },
+   "bake4":{
+      "human_bake4_verb" : "7.00",
+      "human_bake4_noun" : "6.60"
+   },
+   "bake5":{
+      "human_bake5_verb" : "6.20",
+      "human_bake5_noun" : "4.10"
+   },
+   "bake6":{
+      "human_bake6_verb" : "6.90",
+      "human_bake6_noun" : "6.60"
+   },
+   "surf1":{
+      "human_surf1_verb" : "6.70",
+      "human_surf1_noun" : "6.10"
+   },
+   "surf2":{
+      "human_surf2_verb" : "6.80",
+      "human_surf2_noun" : "6.50"
+   },
+   "surf3":{
+      "human_surf3_verb" : "6.60",
+      "human_surf3_noun" : "5.00"
+   },
+   "surf4":{
+      "human_surf4_verb" : "3.10",
+      "human_surf4_noun" : "5.70"
+   },
+   "surf5":{
+      "human_surf5_verb" : "7.00",
+      "human_surf5_noun" : "6.40"
+   },
+   "surf6":{
+      "human_surf6_verb" : "5.20",
+      "human_surf6_noun" : "4.60"
+   },
+   "hunt1":{
+      "human_hunt1_verb" : "6.40",
+      "human_hunt1_noun" : "5.80"
+   },
+   "hunt2":{
+      "human_hunt2_verb" : "6.20",
+      "human_hunt2_noun" : "6.10"
+   },
+   "hunt3":{
+      "human_hunt3_verb" : "5.90",
+      "human_hunt3_noun" : "5.60"
+   },
+   "hunt4":{
+      "human_hunt4_verb" : "6.00",
+      "human_hunt4_noun" : "5.70"
+   },
+   "hunt5":{
+      "human_hunt5_verb" : "6.10",
+      "human_hunt5_noun" : "6.10"
+   },
+   "hunt6":{
+      "human_hunt6_verb" : "5.00",
+      "human_hunt6_noun" : "4.90"
+   },
+   "love1":{
+      "human_love1_verb" : "5.50",
+      "human_love1_noun" : "5.50"
+   },
+   "love2":{
+      "human_love2_verb" : "6.30",
+      "human_love2_noun" : "6.30"
+   },
+   "love3":{
+      "human_love3_verb" : "5.80",
+      "human_love3_noun" : "1.10"
+   },
+   "love4":{
+      "human_love4_verb" : "4.80",
+      "human_love4_noun" : "2.00"
+   },
+   "love5":{
+      "human_love5_verb" : "4.60",
+      "human_love5_noun" : "4.20"
+   },
+   "love6":{
+      "human_love6_verb" : "5.30",
+      "human_love6_noun" : "5.30"
+   },
+   "support1":{
+      "human_support1_verb" : "5.20",
+      "human_support1_noun" : "5.10"
+   },
+   "support2":{
+      "human_support2_verb" : "6.40",
+      "human_support2_noun" : "6.20"
+   },
+   "support3":{
+      "human_support3_verb" : "4.70",
+      "human_support3_noun" : "4.00"
+   },
+   "support4":{
+      "human_support4_verb" : "7.00",
+      "human_support4_noun" : "6.00"
+   },
+   "support5":{
+      "human_support5_verb" : "5.40",
+      "human_support5_noun" : "5.00"
+   },
+   "support6":{
+      "human_support6_verb" : "5.70",
+      "human_support6_noun" : "5.50"
+   },
+   "drive1":{
+      "human_drive1_verb" : "6.60",
+      "human_drive1_noun" : "6.50"
+   },
+   "drive2":{
+      "human_drive2_verb" : "6.10",
+      "human_drive2_noun" : "6.60"
+   },
+   "drive3":{
+      "human_drive3_verb" : "6.70",
+      "human_drive3_noun" : "6.50"
+   },
+   "drive4":{
+      "human_drive4_verb" : "4.30",
+      "human_drive4_noun" : "4.40"
+   },
+   "drive5":{
+      "human_drive5_verb" : "6.90",
+      "human_drive5_noun" : "6.70"
+   },
+   "drive6":{
+      "human_drive6_verb" : "6.30",
+      "human_drive6_noun" : "5.60"
+   },
+   "smoke1":{
+      "human_smoke1_verb" : "6.30",
+      "human_smoke1_noun" : "6.30"
+   },
+   "smoke2":{
+      "human_smoke2_verb" : "2.20",
+      "human_smoke2_noun" : "6.00"
+   },
+   "smoke3":{
+      "human_smoke3_verb" : "6.80",
+      "human_smoke3_noun" : "6.40"
+   },
+   "smoke4":{
+      "human_smoke4_verb" : "6.40",
+      "human_smoke4_noun" : "6.00"
+   },
+   "smoke5":{
+      "human_smoke5_verb" : "7.00",
+      "human_smoke5_noun" : "6.70"
+   },
+   "smoke6":{
+      "human_smoke6_verb" : "2.10",
+      "human_smoke6_noun" : "5.20"
+   },
+   "walk1":{
+      "human_walk1_verb" : "6.70",
+      "human_walk1_noun" : "5.70"
+   },
+   "walk2":{
+      "human_walk2_verb" : "6.80",
+      "human_walk2_noun" : "6.30"
+   },
+   "walk3":{
+      "human_walk3_verb" : "6.80",
+      "human_walk3_noun" : "6.50"
+   },
+   "walk4":{
+      "human_walk4_verb" : "7.00",
+      "human_walk4_noun" : "6.00"
+   },
+   "walk5":{
+      "human_walk5_verb" : "6.70",
+      "human_walk5_noun" : "6.20"
+   },
+   "walk6":{
+      "human_walk6_verb" : "6.90",
+      "human_walk6_noun" : "6.40"
+   },
+   "skii1":{
+      "human_skii1_verb" : "5.60",
+      "human_skii1_noun" : "6.30"
+   },
+   "skii2":{
+      "human_skii2_verb" : "6.50",
+      "human_skii2_noun" : "6.10"
+   },
+   "skii3":{
+      "human_skii3_verb" : "6.80",
+      "human_skii3_noun" : "6.40"
+   },
+   "skii4":{
+      "human_skii4_verb" : "7.00",
+      "human_skii4_noun" : "6.50"
+   },
+   "skii5":{
+      "human_skii5_verb" : "6.90",
+      "human_skii5_noun" : "6.70"
+   },
+   "skii6":{
+      "human_skii6_verb" : "6.70",
+      "human_skii6_noun" : "5.70"
+   },
+   "dance1":{
+      "human_dance1_verb" : "6.00",
+      "human_dance1_noun" : "3.40"
+   },
+   "dance2":{
+      "human_dance2_verb" : "6.50",
+      "human_dance2_noun" : "5.60"
+   },
+   "dance3":{
+      "human_dance3_verb" : "6.10",
+      "human_dance3_noun" : "6.20"
+   },
+   "dance4":{
+      "human_dance4_verb" : "7.00",
+      "human_dance4_noun" : "4.20"
+   },
+   "dance5":{
+      "human_dance5_verb" : "6.00",
+      "human_dance5_noun" : "5.50"
+   },
+   "dance6":{
+      "human_dance6_verb" : "6.90",
+      "human_dance6_noun" : "6.20"
+   },
+   "sing1":{
+      "human_sing1_verb" : "6.40",
+      "human_sing1_noun" : "5.50"
+   },
+   "sing2":{
+      "human_sing2_verb" : "6.70",
+      "human_sing2_noun" : "6.30"
+   },
+   "sing3":{
+      "human_sing3_verb" : "6.80",
+      "human_sing3_noun" : "6.60"
+   },
+   "sing4":{
+      "human_sing4_verb" : "6.70",
+      "human_sing4_noun" : "5.70"
+   },
+   "sing5":{
+      "human_sing5_verb" : "6.50",
+      "human_sing5_noun" : "6.20"
+   },
+   "sing6":{
+      "human_sing6_verb" : "5.80",
+      "human_sing6_noun" : "3.40"
+   },
+   "clean1":{
+      "human_clean1_verb" : "6.70",
+      "human_clean1_noun" : "6.20"
+   },
+   "clean2":{
+      "human_clean2_verb" : "6.00",
+      "human_clean2_noun" : "4.50"
+   },
+   "clean3":{
+      "human_clean3_verb" : "6.50",
+      "human_clean3_noun" : "2.80"
+   },
+   "clean4":{
+      "human_clean4_verb" : "6.10",
+      "human_clean4_noun" : "5.60"
+   },
+   "clean5":{
+      "human_clean5_verb" : "6.30",
+      "human_clean5_noun" : "4.50"
+   },
+   "clean6":{
+      "human_clean6_verb" : "6.10",
+      "human_clean6_noun" : "5.70"
+   },
+   "game1":{
+      "human_game1_verb" : "6.10",
+      "human_game1_noun" : "4.90"
+   },
+   "game2":{
+      "human_game2_verb" : "6.70",
+      "human_game2_noun" : "6.30"
+   },
+   "game3":{
+      "human_game3_verb" : "6.00",
+      "human_game3_noun" : "5.40"
+   },
+   "game4":{
+      "human_game4_verb" : "6.40",
+      "human_game4_noun" : "4.20"
+   },
+   "game5":{
+      "human_game5_verb" : "6.40",
+      "human_game5_noun" : "5.80"
+   },
+   "game6":{
+      "human_game6_verb" : "6.60",
+      "human_game6_noun" : "5.40"
+   },
+   "teach1":{
+      "human_teach1_verb" : "6.40",
+      "human_teach1_noun" : "6.20"
+   },
+   "teach2":{
+      "human_teach2_verb" : "6.70",
+      "human_teach2_noun" : "6.30"
+   },
+   "teach3":{
+      "human_teach3_verb" : "2.00",
+      "human_teach3_noun" : "6.50"
+   },
+   "teach4":{
+      "human_teach4_verb" : "5.20",
+      "human_teach4_noun" : "4.80"
+   },
+   "teach5":{
+      "human_teach5_verb" : "6.30",
+      "human_teach5_noun" : "6.00"
+   },
+   "teach6":{
+      "human_teach6_verb" : "5.90",
+      "human_teach6_noun" : "5.30"
+   },
+   "paint1":{
+      "human_paint1_verb" : "6.80",
+      "human_paint1_noun" : "6.30"
+   },
+   "paint2":{
+      "human_paint2_verb" : "6.50",
+      "human_paint2_noun" : "6.20"
+   },
+   "paint3":{
+      "human_paint3_verb" : "5.60",
+      "human_paint3_noun" : "4.30"
+   },
+   "paint4":{
+      "human_paint4_verb" : "6.20",
+      "human_paint4_noun" : "4.50"
+   },
+   "paint5":{
+      "human_paint5_verb" : "6.80",
+      "human_paint5_noun" : "6.30"
+   },
+   "paint6":{
+      "human_paint6_verb" : "6.60",
+      "human_paint6_noun" : "5.00"
+   },
+   "read1":{
+      "human_read1_verb" : "6.10",
+      "human_read1_noun" : "5.90"
+   },
+   "read2":{
+      "human_read2_verb" : "6.80",
+      "human_read2_noun" : "6.50"
+   },
+   "read3":{
+      "human_read3_verb" : "6.50",
+      "human_read3_noun" : "5.20"
+   },
+   "read4":{
+      "human_read4_verb" : "2.30",
+      "human_read4_noun" : "5.70"
+   },
+   "read5":{
+      "human_read5_verb" : "6.80",
+      "human_read5_noun" : "6.00"
+   },
+   "read6":{
+      "human_read6_verb" : "6.80",
+      "human_read6_noun" : "5.40"
+   }
+}
