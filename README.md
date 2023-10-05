@@ -24,6 +24,7 @@ Please find the code for computing image-text pairs with different Vision and La
 - To test the dataset with ViLT: **Scenario_refiner_ViLT**
 - To test the dataset with LXMERT: **Scenario_refiner_LXMERT**
 
+Please find the human ratings in the **human_judgement** folder. The file is in **json** format.
 
 # Reference
 Please cite our paper if you are using this dataset:
